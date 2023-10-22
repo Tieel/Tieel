@@ -19,5 +19,4 @@
 
 ##### Aprendendo a programar do zero e sem depender de recursos externos.
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiel-yoham-29a767277/)
-
   <a href = "mailto: imyohqn100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
